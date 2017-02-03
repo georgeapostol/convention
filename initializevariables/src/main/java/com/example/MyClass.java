@@ -1,5 +1,8 @@
 package com.example;
 
+// --created by George Apostolopoulos
+// This program lists the primitive data types and hosts examples for each
+
 public class MyClass {
     public static void main(String[] args){
         byte a = 100;
